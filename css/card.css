@@ -1,0 +1,52 @@
+
+.card-list{
+    display: flex;
+    padding: 2.5rem;
+    padding-left: 3rem;
+    padding-right: 5rem;
+    /* overflow-x: scroll; */
+}
+
+.card{
+display: flex;
+position: relative;
+flex-direction: column;
+height: 420px;
+width: 320px;
+padding-top: 4rem;
+padding-left: 0.8rem;
+padding-right: 0.8rem;
+
+border-radius: 12px;
+background: #1c1c1c;
+box-shadow: -1rem 0 2rem #000;
+
+transition: .2s;
+}
+
+body::-webkit-scrollbar{
+width: 0.35rem;
+}
+
+body::-webkit-scrollbar-track{
+background: #1c1c1c;
+}
+
+body::-webkit-scrollbar-thumb{
+background: black; 
+}
+
+/* Card Animation when hover */
+
+.card:hover {
+transform: translateY(-1rem);
+}
+
+.card:hover~.card{
+transform: translateX(140px);
+}
+
+.card:not(:first-child){
+margin-left: -140px; 
+}
+
