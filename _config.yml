@@ -1,12 +1,15 @@
 # Site settings
 title: Varez Yeyez Portofolio
-email: varez.yeyez@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "" # the base hostname & protocol for your site
 
-twitter_username: varez.yeyez
+# Contact Setting
+email: varez.yeyez@gmail.com
+twitter_username: VarezYeyez
 github_username: VarezY
+linkedn_username: varez-yeyez
+youtube_url: UCHSb3mvIvkNrR7gHDYRl7HA
 
 # Build settings
 markdown: kramdown
