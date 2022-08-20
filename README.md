@@ -15,4 +15,3 @@ I learned so much while making this template, if you use it, please let me know.
 + **Unsplash** for Images 
 
 You can add more things to make it even cooler! The comments in the code will help you navigate through it. Have a nice day! 
-
