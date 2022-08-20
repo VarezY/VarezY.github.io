@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<portofolio>
+	<education>
+		<school>
+			<one>SDN Sukaraja 2 Sumedang</one>
+			<two>2007-2013</two>
+			<three>Top 3 in School</three>
+		</school>
+		<school>
+			<one>SMPN 1 Sumedang</one>
+			<two>2013 - 2015</two>
+			<three>Enter Acceleration Class</three>
+		</school>
+		<school>
+			<one>SMAN 1 Sumedang</one>
+			<two>2015 - 2018</two>
+			<three>Top 25 in High School</three>
+		</school>
+		<school>
+			<one>Institut Teknologi Nasional Bandung</one>
+			<two>2018 - present</two>
+			<three>IPK 3.94</three>
+		</school>
+	</education>
+	<experiences>
+		<experience>
+			<one>Koordinasi Logistik Perlombaan LCTM 21</one>
+			<two>Sumedang</two>
+			<three>2015</three>
+		</experience>
+		<experience>
+			<one>Juara 2 Olimpiade Komputer se-Kabupaten</one>
+			<two>Sumedang</two>
+			<three>2016</three>
+		</experience>
+			<one>Panitia Kontes Robot se-Indonesia</one>
+			<two>Bandung</two>
+			<three>2018</three>
+		<experience>
+			<one>Lolos PKM-KC Itenas</one>
+			<two>Bandung</two>
+			<three>2018</three>
+		</experience>
+    <experience>
+			<one>Ketua Divisi Aspirasi BPA HMIF</one>
+			<two>Bandung</two>
+			<three>2019</three>
+		</experience>
+		<experience>
+			<one>Finalis GEMASTIK 13 Div. Pengembangan Game</one>
+			<two>Bandung</two>
+			<three>2020</three>
+		</experience>
+	</experiences>
+	<projects>
+		<project>
+			<one>Aplikasi Peminjaman Alat Pantai</one>
+			<two>Projek Akhir Mata Kuliah Pemograman Dasar</two>
+			<three>link soon</three>
+		</project>
+		<project>
+			<one>Aplikasi Rental Film dan Tv Show</one>
+			<two>Projek Akhir Mata Kuliah Pemograman Basis Data</two>
+			<three>link soon</three>
+		</project>
+		<project>
+			<one>Aplikasi Pengenalan Tata Surya</one>
+			<two>Projek Akhir Mata Kuliah Multimedia</two>
+			<three>link soon</three>
+		</project>
+		<!-- <project>
+			<one>Aplikasi Surat dan Memo Itenas</one>
+			<two>Projek </two>
+			<three>#</three>
+		</project> -->
+		<project>
+			<one>Aplikasi Reservasi Hotel</one>
+			<two>Projek Akhir Mata Kuliah Pemograman Objek Oriented</two>
+			<three>link soon</three>
+		</project>
+		<project>
+			<one>Aplikasi Permainan Traffic Master</one>
+			<two>Aplikasi Lomba untuk GEMASTIK 13</two>
+			<three>link soon</three>
+		</project>
+		<project>
+			<one>Web Portofolio</one>
+			<two>Menampilkan Portofolio Saya</two>
+			<three>link soon</three>
+		</project>
+	</projects>
+</portofolio>
