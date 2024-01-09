@@ -2,8 +2,8 @@
 .card-list{
     display: flex;
     padding: 2.5rem;
-    padding-left: 3rem;
-    padding-right: 5rem;
+    padding-left: 0rem;
+    padding-right: 0rem;
     /* overflow-x: scroll; */
 }
 
